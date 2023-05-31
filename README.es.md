@@ -14,7 +14,8 @@ Este command line challenge está diseñado para que te familiarices con la term
 
 Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
 
-Recomendamos abrir este mismo repositorio usando una herramienta de provisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+Recomendamos abrir este mismo repositorio usando una herramienta de provisionamiento como [Codespaces](cd) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
+ls
 
 Este es el repositorio que necesitas abrir:
 
